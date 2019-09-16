@@ -30,6 +30,7 @@ namespace aula2_2
             }
 
             Console.WriteLine($"Média : {media} - Aluno {resultado} ");
+        
 
         }
     }

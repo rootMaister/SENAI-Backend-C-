@@ -7,7 +7,8 @@ namespace ex3
         static void Main(string[] args)
         {
             float salario;
-            
+            float 
+
             Console.WriteLine("");
         }
     }
