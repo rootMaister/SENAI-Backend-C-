@@ -1,0 +1,15 @@
+C:\Users\fic\Desktop\SENAI-Backend-C-\obj\Debug\netcoreapp2.2\SENAI-Backend-C-.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI-Backend-C-\obj\Debug\netcoreapp2.2\SENAI-Backend-C-.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-C-\obj\Debug\netcoreapp2.2\SENAI-Backend-C-.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-C-\obj\Debug\netcoreapp2.2\SENAI-Backend-C-.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI-Backend-C-\aula2-4\bin\Debug\netcoreapp2.2\SENAI-Backend-C-.deps.json
+C:\Users\fic\Desktop\SENAI-Backend-C-\aula2-4\bin\Debug\netcoreapp2.2\SENAI-Backend-C-.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI-Backend-C-\aula2-4\bin\Debug\netcoreapp2.2\SENAI-Backend-C-.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI-Backend-C-\aula2-4\bin\Debug\netcoreapp2.2\SENAI-Backend-C-.dll
+C:\Users\fic\Desktop\SENAI-Backend-C-\aula2-4\bin\Debug\netcoreapp2.2\SENAI-Backend-C-.pdb
+C:\Users\fic\Desktop\SENAI-Backend-C-\aula2-4\obj\Debug\netcoreapp2.2\SENAI-Backend-C-.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI-Backend-C-\aula2-4\obj\Debug\netcoreapp2.2\SENAI-Backend-C-.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-C-\aula2-4\obj\Debug\netcoreapp2.2\SENAI-Backend-C-.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-C-\aula2-4\obj\Debug\netcoreapp2.2\SENAI-Backend-C-.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI-Backend-C-\aula2-4\obj\Debug\netcoreapp2.2\SENAI-Backend-C-.dll
+C:\Users\fic\Desktop\SENAI-Backend-C-\aula2-4\obj\Debug\netcoreapp2.2\SENAI-Backend-C-.pdb
