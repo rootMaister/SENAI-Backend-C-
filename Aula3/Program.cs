@@ -3,7 +3,7 @@
 namespace Aula3 {
     class Program {
         static void Main (string[] args) {
-            /* // LAÇO CONTADO - 'FOR' - INCREMENTO (+)
+            // LAÇO CONTADO - 'FOR' - INCREMENTO (+)
             for (int cont = 1; cont <= 100; cont++) {
 
                 // Verificamos se o número é diferente de par
@@ -19,7 +19,7 @@ namespace Aula3 {
                 if (cont % 2 != 0) {
                     Console.WriteLine ("FOR 100-0 - " + cont);
                 }
-            } */
+            } 
 
             // int cont;
 

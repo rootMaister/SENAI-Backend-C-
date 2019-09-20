@@ -1,0 +1,4 @@
+C:\Users\fic\Desktop\SENAI-Backend-C-\aula3 Exercicios\ex 1 desafio\obj\Debug\netcoreapp2.2\ex 1 desafio.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI-Backend-C-\aula3 Exercicios\ex 1 desafio\obj\Debug\netcoreapp2.2\ex 1 desafio.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-C-\aula3 Exercicios\ex 1 desafio\obj\Debug\netcoreapp2.2\ex 1 desafio.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-C-\aula3 Exercicios\ex 1 desafio\obj\Debug\netcoreapp2.2\ex 1 desafio.AssemblyInfo.cs

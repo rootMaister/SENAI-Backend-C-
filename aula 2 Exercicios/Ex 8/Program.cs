@@ -47,13 +47,8 @@ namespace Ex_8
 
                 default:
                 Console.WriteLine("Nunca vi peso escrito assim....");
-                break;
-             
-                
-            }
-
-            
-
+                break;  
+            } 
         }
     }
 }
