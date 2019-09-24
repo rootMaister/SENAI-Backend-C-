@@ -27,7 +27,7 @@ namespace MESA_6_CodeDojo
                 switch(menu){
 
                     case "1":
-                        for(int bat = 0; bat <= 2; bat++){
+                        for(int bat = 0; bat <= 9; bat++){
 
                             Console.Write("Escreva o nome do produto: ");
                             nome_produto[bat] = Console.ReadLine();
@@ -38,13 +38,13 @@ namespace MESA_6_CodeDojo
                     break;
 
                     case "2":
-                        for(int bat = 0; bat <=2; bat++){
+                        for(int bat = 0; bat <=9; bat++){
                             Console.WriteLine(nome_produto[bat]);
                         }
                     break;
 
                     case "3":
-                        for(int bat = 0; bat <=2; bat++){
+                        for(int bat = 0; bat <=9; bat++){
                             soma = soma + preco[bat];
         
                         }
