@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI-Backend-C-\MESA 6 CodeDojo\obj\Debug\netcoreapp2.2\MESA 6 CodeDojo.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI-Backend-C-\MESA 6 CodeDojo\obj\Debug\netcoreapp2.2\MESA 6 CodeDojo.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-C-\MESA 6 CodeDojo\obj\Debug\netcoreapp2.2\MESA 6 CodeDojo.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-C-\MESA 6 CodeDojo\obj\Debug\netcoreapp2.2\MESA 6 CodeDojo.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI-Backend-C-\MESA 6 CodeDojo\bin\Debug\netcoreapp2.2\MESA 6 CodeDojo.deps.json
+C:\Users\fic\Desktop\SENAI-Backend-C-\MESA 6 CodeDojo\bin\Debug\netcoreapp2.2\MESA 6 CodeDojo.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI-Backend-C-\MESA 6 CodeDojo\bin\Debug\netcoreapp2.2\MESA 6 CodeDojo.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI-Backend-C-\MESA 6 CodeDojo\bin\Debug\netcoreapp2.2\MESA 6 CodeDojo.dll
+C:\Users\fic\Desktop\SENAI-Backend-C-\MESA 6 CodeDojo\bin\Debug\netcoreapp2.2\MESA 6 CodeDojo.pdb
+C:\Users\fic\Desktop\SENAI-Backend-C-\MESA 6 CodeDojo\obj\Debug\netcoreapp2.2\MESA 6 CodeDojo.dll
+C:\Users\fic\Desktop\SENAI-Backend-C-\MESA 6 CodeDojo\obj\Debug\netcoreapp2.2\MESA 6 CodeDojo.pdb

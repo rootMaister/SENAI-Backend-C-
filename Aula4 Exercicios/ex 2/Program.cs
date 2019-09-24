@@ -26,7 +26,6 @@ namespace ex_2
 
             for(int i = 10; i <=19; i++){
                 vetor3[i] = vetor2[i - 10];
-   
             }
 
             for(int i = 0; i <=19; i++){
