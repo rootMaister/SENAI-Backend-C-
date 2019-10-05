@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI-Backend-C-\Aula14-POO-Reforco\bin\Debug\netcoreapp2.2\Aula14-POO-Reforco.deps.json
+C:\Users\fic\Desktop\SENAI-Backend-C-\Aula14-POO-Reforco\bin\Debug\netcoreapp2.2\Aula14-POO-Reforco.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI-Backend-C-\Aula14-POO-Reforco\bin\Debug\netcoreapp2.2\Aula14-POO-Reforco.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI-Backend-C-\Aula14-POO-Reforco\bin\Debug\netcoreapp2.2\Aula14-POO-Reforco.dll
+C:\Users\fic\Desktop\SENAI-Backend-C-\Aula14-POO-Reforco\bin\Debug\netcoreapp2.2\Aula14-POO-Reforco.pdb
+C:\Users\fic\Desktop\SENAI-Backend-C-\Aula14-POO-Reforco\obj\Debug\netcoreapp2.2\Aula14-POO-Reforco.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI-Backend-C-\Aula14-POO-Reforco\obj\Debug\netcoreapp2.2\Aula14-POO-Reforco.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-C-\Aula14-POO-Reforco\obj\Debug\netcoreapp2.2\Aula14-POO-Reforco.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-C-\Aula14-POO-Reforco\obj\Debug\netcoreapp2.2\Aula14-POO-Reforco.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI-Backend-C-\Aula14-POO-Reforco\obj\Debug\netcoreapp2.2\Aula14-POO-Reforco.dll
+C:\Users\fic\Desktop\SENAI-Backend-C-\Aula14-POO-Reforco\obj\Debug\netcoreapp2.2\Aula14-POO-Reforco.pdb
